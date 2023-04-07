@@ -11,7 +11,7 @@ Time spent: **10** hours spent in total
 The following **required** functionality is completed:
 
 - [X] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
+  - Chosen metric(s): Calories
 - [X] **There is a "create entry" UI that prompts users to make their daily entry**
 - [X] **New entries are saved in a database and then updated in the RecyclerView**
 - [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
@@ -33,7 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![project5](https://user-images.githubusercontent.com/40951986/229385042-8d1943ea-2617-4407-bd3f-10e52d101488.gif)
+![BitFitUpdated](https://user-images.githubusercontent.com/40951986/230545373-e47460f3-ca36-46c8-9b63-1ee12c8ebd4e.gif)
+
 
 
 
